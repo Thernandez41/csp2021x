@@ -1,0 +1,12 @@
+body{background:url(https://th.bing.com/th/id/OIP.JvsZrX3Nnkj_Vj8T4iT7MQHaE8?pid=ImgDet&rs=1) no-repeat center fixed;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+}
+*{
+  font-family:'Courier New', Courier, monospace;
+}
+p{
+  color:antiquewhite;
+}
